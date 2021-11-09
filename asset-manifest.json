@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/titanic/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/titanic/static/js/main.a7f55c23.chunk.js",
+    "main.js.map": "/titanic/static/js/main.a7f55c23.chunk.js.map",
+    "runtime-main.js": "/titanic/static/js/runtime-main.5dc91c0a.js",
+    "runtime-main.js.map": "/titanic/static/js/runtime-main.5dc91c0a.js.map",
+    "static/js/2.7493c88f.chunk.js": "/titanic/static/js/2.7493c88f.chunk.js",
+    "static/js/2.7493c88f.chunk.js.map": "/titanic/static/js/2.7493c88f.chunk.js.map",
+    "static/js/3.4241e147.chunk.js": "/titanic/static/js/3.4241e147.chunk.js",
+    "static/js/3.4241e147.chunk.js.map": "/titanic/static/js/3.4241e147.chunk.js.map",
+    "index.html": "/titanic/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/titanic/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7493c88f.chunk.js.LICENSE.txt": "/titanic/static/js/2.7493c88f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dc91c0a.js",
+    "static/js/2.7493c88f.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a7f55c23.chunk.js"
+  ]
+}
